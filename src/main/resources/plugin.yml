@@ -1,0 +1,5 @@
+name: TodayDB
+author: Hancho
+version: 1.0.0
+main: hancho.todayDB.TodayDB
+api: [1.0.0]
